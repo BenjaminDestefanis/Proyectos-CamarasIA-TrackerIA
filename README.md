@@ -39,3 +39,8 @@ Lista de proyectos
 
 
 
+## P3 - SISTEMA DE COBRO AUTOMATICO EN ESTACIONAMIENTO.
+
+**Objetivo** 
+**Automatizacion del ingreso, permanencia y salida de vehiculos en un estacionamiento utilizando camaras que leen patentes, pudiendo eliminar tickers o personal de cabina**
+
