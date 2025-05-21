@@ -16,5 +16,26 @@ Lista de proyectos
 3. Sistema de cobro automatico en estacionamientos.
 	- Detecta el ingreso/salida por la patente.
 	- Calcula tiempo y cobra automaticamente.
+	- Puede integrar lector QR para usuarios sin patente.
+	- Incluiria tambien , control de acceso o no , en edificios,
+	si la patente esta registrada en el edificio.
+	
+4. Control de transito urbano con cámaras fijas.
+	- Deteccion de vehiculos que cruzan en rojo, exceden velocidad, 
+	van en contramano, etc.
+	- Guarda la patente y envia reporte con video/foto.
 	- Puede incluir estadisticas de trafico.
-	- 
+	
+5. Sistema anti robo de vehiculos
+	- Detecta la patente de vehiculos robados.
+	- Consulta a base de datos en tiempo real.
+	- En caso de coincidencia, genera alerta.
+	
+6. Analisis de flujo vehicular en tiempo real.
+	- Cuenta vehiculos por carril/sentido/horario/ etc.
+	- Detecta congestion, accidentes, desvios.
+	- Para ciudades inteligentes o desarrolloos viales.
+	
+
+
+
